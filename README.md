@@ -146,7 +146,7 @@ Identifies the top 5 customers in each country based on total Internet sales.
 
 ## 🎯 Why This Project
 
-This project was built as part of focused SQL skill development after a failed technical assessment. It reflects a structured, real-world approach to SQL analytics and demonstrates readiness for timed technical interviews and on-the-job analysis tasks.
+This project was built as part of focused SQL skill development. It reflects a structured, real-world approach to SQL analytics and demonstrates readiness for on-the-job analysis tasks.
 
 ---
 
