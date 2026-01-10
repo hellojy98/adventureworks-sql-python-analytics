@@ -153,5 +153,6 @@ This project was built as part of focused SQL skill development after a failed t
 ## 📬 Contact
 
 **Author:** Tee Jing Ye
+
 Feel free to connect or reach out for feedback or collaboration.
 
