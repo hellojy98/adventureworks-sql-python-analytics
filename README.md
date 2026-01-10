@@ -112,7 +112,7 @@ Calculates cumulative Internet sales revenue month-by-month, resetting each year
 
 ---
 
-### **Bonus Query: Top 5 Customers per Country**
+### **Query 7: Top 5 Customers per Country**
 
 Identifies the top 5 customers in each country based on total Internet sales.
 
